@@ -7,5 +7,7 @@ Free Code Camp Project :
         Anyway this project is requested once you reach #118 on your map.
         This took less than 2 hours to create and might be not that impressive , but am glad i took this Camp and am planing to finish it
         as a Proud Camper <3 .
-        
+	
+        This tribute page for "Faker" Who is a League of legends Player , he is the best player right now , so idecided to create 
+        the truibute page for him.
         
